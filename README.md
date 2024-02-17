@@ -49,5 +49,6 @@ Refactor the existing codes and provide the UML Diagram:
         }
     }
 
-![StrategyPattern](https://github.com/AngelicaManliguez/strategyPattern/assets/142959759/6e13aa71-d54b-4efe-82dd-0572b9c097a1)
+![StrategyPattern](https://github.com/AngelicaManliguez/strategyPattern/assets/142959759/9f970884-92bf-4a17-8810-e6c052cac209)
+
 
