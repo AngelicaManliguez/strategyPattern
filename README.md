@@ -51,6 +51,6 @@ public class Character {
             System.out.println("Using a shield to defend!"");
         }
     }
-}
+
 ![StrategyPattern](https://github.com/AngelicaManliguez/strategyPattern/assets/142959759/6e13aa71-d54b-4efe-82dd-0572b9c097a1)
 
